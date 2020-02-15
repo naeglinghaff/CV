@@ -1,10 +1,24 @@
 # Kate Haffenden
 
+
+
 ## The things I do best ##
+
+
 
 ## Where I've studied ##
 
+2011-14 BA (Hons) English and Classical Studies (First Class) | Royal Holloway, University of London
+Winner of the 2014 Driver’s prize & 2014 Hilda Green prize.
+
+2008-10 A-Levels: A*, A*, B | The Judd School
+
+2003-08 GCSEs: 10 x Grade A* – B. Including English (A), Maths (A) | Weald of Kent Grammar School for Girls
+
+
 ## Things I've done ##
+
+
 
 ## Things I like ##
 *(That aren't written in code)*
