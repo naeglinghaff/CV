@@ -1,5 +1,8 @@
 # Kate Haffenden
 
+Former copywriter
+
+
 
 
 ## The things I do best ##
