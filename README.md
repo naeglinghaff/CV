@@ -1,5 +1,11 @@
 # Kate Haffenden
 
+## The things I do best ##
+
+## Where I've studied ##
+
+## Things I've done ##
+
 ## Things I like ##
 *(That aren't written in code)*
 
