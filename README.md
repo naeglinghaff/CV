@@ -14,19 +14,19 @@ But now I'd like to use the skills I've developed in my career to build cool thi
 
 ## The things I do best ##
 
-• Paying attention to the little things:
+### Paying attention to the little things ###
 
 Copywriting is all in the details. With some thorough A/B testing I have been able to generate and tweak content to achieve open rates of 88% and click through rates of 26% as part of a digital advertising campaign. In my freelance work, I've also proofed and edited hundreds of academic submissions ranging from PHD theses to undergraduate essays, earning a 5 star approval rating along the way. 
 
-• Solving problems:
+### Solving problems ###
 
 I've been selling conferences for several years but I've never had to organise one before. While I was in Buenos Aires I coordinated a conference in Cape Town for 120 people solving the unexpected problems as they emerged. Such as our graphic designer going AWOL on the day the signage went to print. I managed to source original .ai files and update them myself using Photoshop (which I'd never used  before) and the conference went on to receive the highest level of feedback from our delegates in the history of that event. 
 
- • Communication and project management:
+ ### Communication and project management ###
 
 In 2019 I was promoted to manage marketing strategy and campaigns at a financial media start-up. That year I helped manage our team of 8 to achieve a 10% profit growth for the £550,000 commodity finance event and even managed to exceed an event target by 29% while I was working from a Costa Rican jungle.
 
-• Writing:
+### Writing ###
 
 I've written copy for emails, brochures, websites, landing-pages and social media. Some of my work has contributed to a 66% increase in engagement across an organisation’s social media platforms and a 40% increase in marketing revenue, compared to the previous year.
 
@@ -52,17 +52,17 @@ Weald of Kent Grammar School for Girls (2003 to 2008)
 
 ## Things I've done ##
 
-Freelance Copywriter and Marketing Manager (July 2019 to February 2020)
+### Freelance Copywriter and Marketing Manager (July 2019 to February 2020)
 
 • Built my own website to diplay my copywriting portfolio (katewriting.co.uk)
 
-TXF: Trade and Export Finance ( Febrary 2016 to July 2020
+### TXF: Trade and Export Finance (February 2016 to July 2020)
 Marketing Manager & Marketing Executive
 
 • Wrote, designed and coded emails and webpages in HTML and CSS
 • Managed our database including extractions using conditionals and csv formatting 
 
-Miles Publishing July 2014 to May 2015
+### Miles Publishing (July 2014 to May 2015) ###
 Office and Marketing Assistant
 
 • Coordinated the production and distribution of our clients' email marketing campaigns using HTML and Dynamail. Each client returned for repeat business. 
