@@ -2,9 +2,9 @@
 
 ## A former copywriter and marketing manager ##
 
-*Translation: a detail-orientated, fast-learning creative with a stubborn streak who doesn't know when to quit.*
+*Translation: a detail-orientated, fast-learning creative.*
 
-In the last year, I've organised South African conferences from a beach in Rio, surpassed revenue targets from a surf camp in Costa Rica and written top performing adverts from cafés in Colombia. Juggling timezones, deadlines and projects as I went. 
+In the last year, I've organised South African conferences from a beach in Rio, surpassed revenue targets from a surf camp in Costa Rica and written top performing adverts from cafés in Colombia. Juggling time zones, deadlines and projects as I went. 
 
 The problem was everything starting to get a bit too easy.
 
@@ -16,39 +16,56 @@ But now I'd like to use the skills I've developed in my career to build cool thi
 
 • Paying attention to the little things:
 
-Copywriting is all in the details. With some thorough A/B testing I have been able to generate and tweak content to promote a subscription product, achieving open rates of 88% and click through rates of 26% as part of a digital advertising campaign. In my freelance work, I've also proofed and edited hundreds of academic submissions ranging from PHD theses to undergraduate essays, earning a 5 star approval rating along the way. 
+Copywriting is all in the details. With some thorough A/B testing I have been able to generate and tweak content to achieve open rates of 88% and click through rates of 26% as part of a digital advertising campaign. In my freelance work, I've also proofed and edited hundreds of academic submissions ranging from PHD theses to undergraduate essays, earning a 5 star approval rating along the way. 
 
 • Solving problems:
 
-I've been selling conferences for several years but I've never had to organise one before. While I was in Buenos Aires I coordinated a conference in Cape Town for 120 people solving the unexpected problems as they emerged. Such as our graphic designer going AWOL on the day the signage went to print. I managed to source orignial ai files and updated them myself on photoshop (which I'd never used  before) and the conference recieved the highest level of feedback from our delegates in the history of that event. 
+I've been selling conferences for several years but I've never had to organise one before. While I was in Buenos Aires I coordinated a conference in Cape Town for 120 people solving the unexpected problems as they emerged. Such as our graphic designer going AWOL on the day the signage went to print. I managed to source original .ai files and update them myself using Photoshop (which I'd never used  before) and the conference went on to receive the highest level of feedback from our delegates in the history of that event. 
 
  • Communication and project management:
 
-In 2019 I was promoted to manage marketing strategy and campaigns at a financial media start-up for their event portfolio worth over £5,000,000 per annum. That year I helped manage our team of 8 to achieve 10% growth for the £550,000 commodity finance event and even managed to exceed an event target by 29% while I was working from a Costa Rican jungle.
+In 2019 I was promoted to manage marketing strategy and campaigns at a financial media start-up. That year I helped manage our team of 8 to achieve a 10% profit growth for the £550,000 commodity finance event and even managed to exceed an event target by 29% while I was working from a Costa Rican jungle.
 
 • Writing:
 
-I've written copy for emails, brochures, websites, landing-pages and social media. Previously, contributed to a 66% increase for engagement across our social media platforms and a 40% increase in marketing revenue by 40% compared to the previous year.
+I've written copy for emails, brochures, websites, landing-pages and social media. Some of my work has contributed to a 66% increase in engagement across an organisation’s social media platforms and a 40% increase in marketing revenue, compared to the previous year.
 
 You can find some of my writing here: katewriting.co.uk
 
 ## Where I've studied ##
 
-2011-14 BA (Hons) English and Classical Studies (First Class) | Royal Holloway, University of London
+Makers Academy (January 2020 to May 2020)
+    • OOP, TDD, MVC, DDD
+    • Agile/XP
+    • Ruby, Rails, JavaScript
+    • RSpec, Jasmine
+      
+Royal Holloway, University of London (2011 to 2014)
+    • BA (Hons) English and Classical Studies (First Class) 
+    • Winner of the 2014 Driver’s prize and Hilda Green prize for academic achievement in both of my subject specialisms. 
 
-Winner of the 2014 Driver’s prize & 2014 Hilda Green prize for academic achievement in both of my subject specialisms. 
+The Judd School (2008 to 2010)
+    • A-Levels: A*, A*, B
 
-2008-10 | The Judd School
-
-A-Levels: A*, A*, B
-
-2003-08 GCSEs | Weald of Kent Grammar School for Girls
-
-10 x Grade A* – B. Including English (A), Maths (A)
-
+Weald of Kent Grammar School for Girls (2003 to 2008)
+    • GCSE's: 10 x Grade A* – B. Including English (A), Maths (A)
 
 ## Things I've done ##
 
+Freelance Copywriter and Marketing Manager (July 2019 to February 2020)
+
+• Built my own website to diplay my copywriting portfolio (katewriting.co.uk)
+
+TXF: Trade and Export Finance ( Febrary 2016 to July 2020
+Marketing Manager & Marketing Executive
+
+• Wrote, designed and coded emails and webpages in HTML and CSS
+• Managed our database including extractions using conditionals and csv formatting 
+
+Miles Publishing July 2014 to May 2015
+Office and Marketing Assistant
+
+• Coordinated the production and distribution of our clients' email marketing campaigns using HTML and Dynamail. Each client returned for repeat business. 
 
 
 ## Things I like ##
