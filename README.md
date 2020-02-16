@@ -1,6 +1,6 @@
 # Kate Haffenden
 
-## A former copywriter and marketing manager ##
+## A former copywriter and marketing manager (wannabe dev) ##
 
 *Translation: a detail-orientated, fast-learning creative with a stubborn streak that doesn't know when to quit.*
 
