@@ -1,8 +1,8 @@
 # Kate Haffenden
 
-## A former copywriter and marketing manager (wannabe dev) ##
+## A former copywriter and marketing manager ##
 
-*Translation: a detail-orientated, fast-learning creative with a stubborn streak that doesn't know when to quit.*
+*Translation: a detail-orientated, fast-learning creative with a stubborn streak who doesn't know when to quit.*
 
 In the last year, I've organised South African conferences from a beach in Rio, surpassed revenue targets from a surf camp in Costa Rica and written top performing adverts from cafés in Colombia. Juggling timezones, deadlines and projects as I went. 
 
