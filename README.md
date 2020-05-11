@@ -1,7 +1,6 @@
 # Kate Haffenden
 
-## A former copywriter and marketing manager ##
-
+### A former copywriter and marketing manager ### 
 *Translation: a detail-orientated, fast-learning creative.*
 
 In the last year, I've organised South African conferences from a beach in Rio, surpassed revenue targets from a surf camp in Costa Rica and written top performing adverts from cafés in Colombia. Juggling time zones, deadlines and projects as I went. 
@@ -30,51 +29,49 @@ In 2019 I was promoted to manage marketing strategy and campaigns at a financial
 
 I've written copy for emails, brochures, websites, landing-pages and social media. Some of my work has contributed to a 66% increase in engagement across an organisation’s social media platforms and a 40% increase in marketing revenue, compared to the previous year.
 
-You can find some of my writing here: katewriting.co.uk
+You can find some of my writing here: naeglinghaff.pythonanywhere.com
 
 ## Where I've studied ##
 
 Makers Academy (January 2020 to May 2020)
-    • OOP, TDD, MVC, DDD
-    • Agile/XP
-    • Ruby, Rails, JavaScript
-    • RSpec, Jasmine
+    * OOP, TDD, MVC, DDD
+    * Agile/XP
+    * Ruby, Rails, JavaScript
+    * RSpec, Jasmine
       
 Royal Holloway, University of London (2011 to 2014)
-    • BA (Hons) English and Classical Studies (First Class) 
-    • Winner of the 2014 Driver’s prize and Hilda Green prize for academic achievement in both of my subject specialisms. 
+    * BA (Hons) English and Classical Studies (First Class) 
+    * Winner of the 2014 Driver’s prize and Hilda Green prize for academic achievement in both of my subject specialisms. 
 
 The Judd School (2008 to 2010)
-    • A-Levels: A*, A*, B
+    * A-Levels: A*, A*, B
 
 Weald of Kent Grammar School for Girls (2003 to 2008)
-    • GCSE's: 10 x Grade A* – B. Including English (A), Maths (A)
+    * GCSE's: 10 x Grade A* – B. Including English (A), Maths (A)
 
 ## Things I've done ##
 
 ### Freelance Copywriter and Marketing Manager (July 2019 to February 2020)
 
-• Built my own website to diplay my copywriting portfolio (katewriting.co.uk)
+* Built my own website to diplay my copywriting portfolio (katewriting.co.uk)
 
 ### TXF: Trade and Export Finance (February 2016 to July 2020)
 Marketing Manager & Marketing Executive
 
-• Wrote, designed and coded emails and webpages in HTML and CSS
-• Managed our database including extractions using conditionals and csv formatting 
+* Wrote, designed and coded emails and webpages in HTML and CSS
+* Managed our database including extractions using conditionals and csv formatting 
 
 ### Miles Publishing (July 2014 to May 2015) ###
 Office and Marketing Assistant
 
-• Coordinated the production and distribution of our clients' email marketing campaigns using HTML and Dynamail. Each client returned for repeat business. 
+* Coordinated the production and distribution of our clients' email marketing campaigns using HTML and Dynamail. Each client returned for repeat business. 
 
 
 ## Things I like ##
 *(That aren't written in code)*
 
-• Reading – as a former English student, this one's probably not that surprising. I’ve recently finished Jean Paul Sartre’s “The Age of Reason” which  was a barrel of laughs. 
-
-• Art – Painting and cross stitching are my current obsessions. 
-
-• Singing – Performed at All Points East and at The Roundhouse in London. 
+* Reading – as a former English student, this one's probably not that surprising. I’ve recently finished Jean Paul Sartre’s “The Age of Reason” which  was a barrel of laughs. 
+* Art – Painting and cross stitching are my current obsessions. 
+* Singing – Performed at All Points East and at The Roundhouse in London. 
 
 Over the years I’ve also been obsessed with bellydancing, fencing, weightlifting, yoga, pilates, curling, netball and dodgeball.
