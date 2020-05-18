@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Kate Haffenden | CV</h1>
 
 <h3 style="text-align: center;">A former copywriter and marketing manager</h3>
-<h4 style="text-align: center; font-style: italic;">Translation: a pernickety creative and fast-learner</h4>
+<h4 style="text-align: center" font-style: italic;">Translation: a pernickety creative and fast-learner</h4>
 
 ## Story time...
 In the last year, I've organised South African conferences from a beach in Rio, surpassed revenue targets from a surf camp in Costa Rica and written top performing adverts from cafés in Colombia. Juggling time zones, deadlines and projects as I went.
@@ -10,16 +10,24 @@ The problem was everything starting to get a bit too easy.
 
 When you’re naturally organised it’s not that difficult to manage multiple marketing campaigns, handle logistics and write converting copy at the same time, even from the other side of the world. When someone asks you “can you help me with this?” You say “sure” and figure out a way to get it done. You solve the problems one step at a time.
 
-But now I'd like to use the skills I've developed in my career to build cool things, rather than to sell them. I'd like to work in an industry that values and promotes personal growth. I'd like to spend the rest of my life learning something new every single day.
+But now I'd like to use the skills I've developed in my career to build cool things, rather than sell them. I'd like to work in an industry that values and promotes personal growth. I'd like to spend the rest of my life learning something new every day.
 
 ------------------------
 ## Toolbox
 
-Languages & frameworks, ranked by confidence level:
+Languages and frameworks, ranked by confidence level:
 
-• JavaScript • Ruby • Rails • Python • Django • Node.js
+• JavaScript • Node.js • Ruby • Rails • Python • Django •
 
-## Code I've written
+## Current projects
+
+**LVC Website** - A collaborative project with a group of like-minded devs based in London. We are currently working on a website to publicise our group: London Vegan Coders. Current stack features Rails and JavaScript
+https://github.com/London-Vegan-Coders/LVC-Website
+
+**Algorithm Timer** - A research tool to time custom and built-it functions, measuring their efficiency and plotting the results via Chart.js. My playground for exploring algorithm complexity. Current stack: JavaScript, Node.js, Jasmine, Chart.js.
+https://github.com/naeglinghaff/algorithm_timer
+
+## Other code I've written
 
 | Project              | What's the sitch?                                                                                                                                                                                                    | Stack                                                                            | Where to find it                                                                       |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -52,20 +60,20 @@ You can find some of my writing here: naeglinghaff.pythonanywhere.com
 ## Where I've studied ##
 
 Makers Academy (January 2020 to May 2020)
-    * OOP, TDD, MVC, DDD
-    * Agile/XP
-    * Ruby, Rails, JavaScript
-    * RSpec, Jasmine
+* OOP, TDD, MVC, DDD
+* Agile/XP
+* Ruby, Rails, JavaScript
+* RSpec, Jasmine
 
 Royal Holloway, University of London (2011 to 2014)
-    * BA (Hons) English and Classical Studies (First Class)
-    * Winner of the 2014 Driver’s prize and Hilda Green prize for academic achievement in both of my subject specialisms.
+* BA (Hons) English and Classical Studies (First Class)
+* Winner of the 2014 Driver’s prize and Hilda Green prize for academic achievement in both of my subject specialisms.
 
 The Judd School (2008 to 2010)
-    * A-Levels: A*, A*, B
+* A-Levels: A*, A*, B
 
 Weald of Kent Grammar School for Girls (2003 to 2008)
-    * GCSE's: 10 x Grade A* – B. Including English (A), Maths (A)
+* GCSE's: 10 x Grade A* – B. Including English (A), Maths (A)
 
 ## Things I've done ##
 
