@@ -12,19 +12,14 @@ When you’re naturally organised it’s not that difficult to manage multiple m
 
 But now I'd like to use the skills I've developed in my career to build cool things, rather than sell them. I'd like to work in an industry that values and promotes personal growth. I'd like to spend the rest of my life learning something new every day.
 
-------------------------
-## Toolbox
-
-Languages and frameworks, ranked by confidence level:
-
-• JavaScript • Node.js • Ruby • Rails • Python • Django •
+-------------------------
 
 ## Current projects
 
 **LVC Website** - A collaborative project with a group of like-minded devs based in London. We are currently working on a website to publicise our group: London Vegan Coders. Current stack features Rails and JavaScript
 https://github.com/London-Vegan-Coders/LVC-Website
 
-**Algorithm Timer** - A research tool to time custom and built-it functions, measuring their efficiency and plotting the results via Chart.js. My playground for exploring algorithm complexity. Current stack: JavaScript, Node.js, Jasmine, Chart.js.
+**Algorithm Timer** - A research tool to time custom and built-in functions, measuring their efficiency and plotting the results via Chart.js. My playground for exploring algorithm complexity. Current stack: JavaScript, Node.js, Jasmine, Chart.js.
 https://github.com/naeglinghaff/algorithm_timer
 
 ## Other code I've written
@@ -65,27 +60,26 @@ Makers Academy (January 2020 to May 2020)
 * Ruby, Rails, JavaScript
 * RSpec, Jasmine
 
-Royal Holloway, University of London (2011 to 2014)
+Royal Holloway, University of London
 * BA (Hons) English and Classical Studies (First Class)
 * Winner of the 2014 Driver’s prize and Hilda Green prize for academic achievement in both of my subject specialisms.
 
-The Judd School (2008 to 2010)
+The Judd School
 * A-Levels: A*, A*, B
 
-Weald of Kent Grammar School for Girls (2003 to 2008)
+Weald of Kent Grammar School for Girls
 * GCSE's: 10 x Grade A* – B. Including English (A), Maths (A)
 
 ## Things I've done ##
 
 #### Freelance Copywriter and Marketing Manager (July 2019 to February 2020)
 
-* Built my own website to diplay my copywriting portfolio (katewriting.co.uk)
+* Designed and deployed my own website to display my copywriting portfolio (katewriting.co.uk) and created a library of HTML templates for a client's email campaigns. With the new formatting, email registrations increased by 25%.
 
 #### TXF: Trade and Export Finance (February 2016 to July 2020)
-Marketing Manager & Marketing Executive
+Marketing Manager
 
-* Wrote, designed and coded emails and webpages in HTML and CSS
-* Managed our database including extractions using conditionals and csv formatting
+* automated database migrations and created SQL queries to extract contacts from our 35,000 strong database.
 
 #### Miles Publishing (July 2014 to May 2015)
 Office and Marketing Assistant
