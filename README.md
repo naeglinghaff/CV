@@ -4,11 +4,12 @@
 <h4 style="text-align: center" font-style: italic;">Translation: a pernickety creative and fast-learner</h4>
 
 ## Story time...
+
 In the last year, I've organised South African conferences from a beach in Rio, surpassed revenue targets from a surf camp in Costa Rica and written top performing adverts from cafés in Colombia. Juggling time zones, deadlines and projects as I went.
 
 The problem was everything starting to get a bit too easy.
 
-When you’re naturally organised it’s not that difficult to manage multiple marketing campaigns, handle logistics and write converting copy at the same time, even from the other side of the world. When someone asks you “can you help me with this?” You say “sure” and figure out a way to get it done. You solve the problems one step at a time.
+When you’re naturally organised it’s not that difficult to manage multiple marketing campaigns, handle logistics and write converting copy at the same time, even from the other side of the world. When someone asks you - can you help me with this? You say, sure, and figure out a way to get it done. You solve the problems one step at a time.
 
 But now I'd like to use the skills I've developed in my career to build cool things, rather than sell them. I'd like to work in an industry that values and promotes personal growth. I'd like to spend the rest of my life learning something new every day.
 
@@ -16,18 +17,22 @@ But now I'd like to use the skills I've developed in my career to build cool thi
 
 ## Current projects
 
-**LVC Website** - A collaborative project with a group of like-minded devs based in London. We are currently working on a website to publicise our group: London Vegan Coders. Current stack features Rails and JavaScript
+**LVC Website** - A collaborative project with a group of like-minded devs based in London. We are currently working on a website to publicise our group: London Vegan Coders. Current stack features Rails, JavaScript, AWS and React.
 https://github.com/London-Vegan-Coders/LVC-Website
 
-**Algorithm Timer** - A research tool to time custom and built-in functions, measuring their efficiency and plotting the results via Chart.js. My playground for exploring algorithm complexity. Current stack: JavaScript, Node.js, Jasmine, Chart.js.
+PROJECT HIGHLIGHT: applying agile processes within an experienced team. It's been a pleasure to pair with some experienced developers and to work together estimating tickets and sharing resources. Taking suggestions from the community has really helped to improve my code and led me on to a webinar series I'm currently exploring from Chris on Code, "Go from JavaScript to React".
+
+**Algorithm Timer** - My playground for exploring algorithm complexity: a research tool to time custom and built-in functions, measuring their efficiency and plotting the results with frontend libraries. Current stack includes JavaScript, Node.js, Jasmine and Chart.js.
 https://github.com/naeglinghaff/algorithm_timer
+
+PROJECT HIGHLIGHT: learning more sophisticated methods of separating out client and server side JavaScript. This project has inspired me to explore additional JavaScript tools and appreciate the quirks of the language more deeply. Exploring the concept of algorithm efficiency has also made me more aware of performance and how it can be influenced by your choices as a developer.
 
 ## Other code I've written
 
 | Project              | What's the sitch?                                                                                                                                                                                                    | Stack                                                                            | Where to find it                                                                       |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | InstaApp             | Challenge: to clone instagram in 2 days.                                                                                                                                                                             | Ruby, Rails, JavaScript, Bootstrap, tested with Cabybara and Rspec               | https://github.com/naeglinghaff/instaapp                                               |
-| Virtual Account      | A virtual bank account accessed via the JS console. Pretend you have all the money in the world to deposit and withdraw then get a handy statement to document how responsible you've been.                          | JavaScript, Node.js, tested with Jasmine                                         | https://github.com/naeglinghaff/bank_tech_test                                         |
+| Virtual Account      | A virtual bank account accessed via the JS console. Pretend you have all the money in the world to deposit and withdraw, then get a handy statement to document how responsible you've been.                          | JavaScript, Node.js, tested with Jasmine                                         | https://github.com/naeglinghaff/bank_tech_test                                         |
 | The Winged Messenger | A personal blog that started at a Django Girls' event and now inflicts my thoughts on the rest of the internet.                                                                                                      | Python, Django, Bootstrap, deployed with Pythonanywhere and tested with unittest | https://naeglinghaff.pythonanywhere.com/ \| https://github.com/naeglinghaff/blog-python-django  |
 | Space Trash          | A 7 day group project focused around machine learning and space debris. The application is intended to visualise space debris and satellite data, using a model to make predictions for individual objects in orbit. | Python, Django, JavaScript, deployed with Heroku, tested with unittest           | https://space-trash.herokuapp.com/ \| https://github.com/The-Mech-Squad/the_mech_squad |
 
