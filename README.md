@@ -57,6 +57,10 @@ I've written copy for emails, brochures, websites, landing-pages and social medi
 
 You can find some of my writing here: naeglinghaff.pythonanywhere.com
 
+#### Learning ####
+
+You don't get a 1st class degree without being good at teaching yourself. Over the years I've developed a system for teaching myself new material quickly. I used to be really inflexible - now I can touch my toes. I used to have no idea what a deadlift was - I taught myself the proper form. I never knew what a byte, algorithm or binary search tree were, but I followed Harvard's CS50 course and now I do.
+
 ## Where I've studied ##
 
 Makers Academy (January 2020 to May 2020)
@@ -96,8 +100,8 @@ Office and Marketing Assistant
 *(That aren't written in code)*
 
 * Reading – as a former English student, this one's probably not that surprising. I’ve recently finished Jean Paul Sartre’s “The Age of Reason” which  was a barrel of laughs.
-* Art – Painting and cross stitching are my current obsessions.
-* Singing – Performed at All Points East and at The Roundhouse in London.
+* Art – painting and cross stitching are my current obsessions.
+* Singing – performed at All Points East and at The Roundhouse in London.
 * Games - okay some of these are written in code, but I also like board games.
 
 Over the years I’ve also been obsessed with bellydancing, fencing, weightlifting, yoga, pilates, curling, netball and dodgeball.
