@@ -22,7 +22,7 @@ https://github.com/London-Vegan-Coders/LVC-Website
 
 *PROJECT HIGHLIGHT*: applying agile processes within an experienced team. It's been a pleasure to pair with some experienced developers and to work together estimating tickets and sharing resources. Taking suggestions from the community has really helped to improve my code and led me on to a webinar series I'm currently exploring from Chris on Code, "Go from JavaScript to React".
 
-**Algorithm Timer** - My playground for exploring algorithm complexity: a research tool to time custom and built-in functions, measuring their efficiency and plotting the results with frontend libraries. Current stack includes JavaScript, Node.js, Jest and Chart.js.
+**Algorithm Timer** - My playground for exploring algorithm complexity: a research tool to time custom and built-in functions, measuring their efficiency and plotting the results with frontend libraries. Current stack includes JavaScript, Node.js, Jest, ESLint and Chart.js.
 https://github.com/naeglinghaff/algorithm_timer
 
 *PROJECT HIGHLIGHT*: learning more sophisticated methods of separating out client and server side JavaScript. This project has inspired me to explore additional JavaScript tools and appreciate the quirks of the language more deeply. Exploring the concept of algorithm efficiency has also made me more aware of performance and how it can be influenced by your choices as a developer.
