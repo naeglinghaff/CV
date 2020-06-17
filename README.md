@@ -25,7 +25,7 @@ https://github.com/London-Vegan-Coders/LVC-Website
 **Age UK Volunteer Matching** - An app born at the Help for Heroes Hackathon which placed 2nd overall and my first foray into purely back end development, user experience and accessibility. Built with blood, sweat, tears and a little bit of Ruby, Rails, JavaScript and Bootstrap.
 https://github.com/Age-UK-Voluteer-Matching/Match-App
 
-*PROJECT HIGHLIGHT*: getting to explore the issues of design and user experience under strict time pressure for a good cause. My role within the group was focused on the back end of the application, working within the confines of devise and attempting to optimise database queries.
+*PROJECT HIGHLIGHT*: getting to explore the challenges of design and user experience under strict time pressure, all for a good cause. My role within the group was focused on the back end of the application, working within the confines of devise and attempting to optimise database queries as we went. Now we are planning to continue to work on the project, turning the back end into an API and perfecting queries for matching seniors and volunteers. 
 
 ## Other code I've written
 
