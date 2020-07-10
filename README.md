@@ -1,7 +1,5 @@
 <h1 style="text-align: center;">Kate Haffenden 
 
--------------------------
-
 ## Current projects
 
 **LVC Website** - A collaborative project with a group of like-minded devs based in London. We are currently working on a website to publicise our group: London Vegan Coders. Current stack features Rails, Docker, JavaScript, AWS and React.
