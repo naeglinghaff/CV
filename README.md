@@ -1,17 +1,6 @@
-<h1 style="text-align: center;">Kate Haffenden | CV</h1>
+<h1 style="text-align: center;">Kate Haffenden | A former copywriter and marketing manager </h1>
 
-<h3 style="text-align: center;">A former copywriter and marketing manager</h3>
 <h4 style="text-align: center" font-style: italic;">Translation: a pernickety creative and fast-learner</h4>
-
-## Story time...
-
-In the last year, I've organised South African conferences from a beach in Rio, surpassed revenue targets from a surf camp in Costa Rica and written top performing adverts from cafés in Colombia. Juggling time zones, deadlines and projects as I went.
-
-The problem was everything starting to get a bit too easy.
-
-When you’re naturally organised it’s not that difficult to manage multiple marketing campaigns, handle logistics and write converting copy at the same time, even from the other side of the world. When someone asks you - can you help me with this? You say, sure, and figure out a way to get it done. You solve the problems one step at a time.
-
-But now I'd like to use the skills I've developed in my career to build cool things, rather than sell them. I'd like to work in an industry that values and promotes personal growth. I'd like to spend the rest of my life learning something new every day.
 
 -------------------------
 
@@ -34,7 +23,6 @@ https://github.com/Age-UK-Voluteer-Matching/Match-App
 | The Winged Messenger | A personal blog that started at a Django Girls event and now inflicts my thoughts on the rest of the internet.                                                                                                       | On the 3 separate occasions I've deployed updates to production, I've had to resolve new server-side bugs, updated dependencies for security and each time I've managed to successfully get it up and running in under 4 hours. | Python, Django, Bootstrap, deployed with Pythonanywhere and Heroku and tested with unittest | naeglinghaff.pythonanywhere.com \| https://github.com/naeglinghaff/blog-python-django  |
 | Ticketing Application          | Something to help organise tasks and customer service tickets within a team. | The current plan for this application involves building a Rails API and a React front end to style the client-side. A great opportunity to practice my React skills and practice crafting RESTful APIs.                                                                                                                                                                                                                                                                                                                                                                                      | Ruby, Rails, React, JavaScript and tested with RSpec           |  https://github.com/naeglinghaff/ticketing-app |
 | Algorithm Timer            |     My playground for exploring algorithm complexity: a research tool to time custom and built-in functions, measuring their efficiency and plotting the results with frontend libraries.                                                                                                                                                                         | Learning more sophisticated methods of separating out client and server side JavaScript. This project has inspired me to explore additional JavaScript tools and appreciate the quirks of the language more deeply. Exploring the concept of algorithm efficiency has also made me more aware of performance and how it can be influenced by your choices as a developer.                                                                                                                                                                                                                                                                                                                                                                                            | Current stack includes JavaScript, Node.js, Jest, ESLint and Chart.js.         | https://github.com/naeglinghaff/algorithm_timer       |
-| Virtual Account      | A bank account accessed via the console. Pretend you have all the money in the world then get a handy statement to document how responsible you've been.                             | Having a robust TDD  tests in place helped to debug an unfamiliar Node.js error that came my way. The additional visibility on the error ensured that the problem was resolved with minimal google searches in under 15 minutes.                                                                                                                         | JavaScript, Node.js, tested with Jasmine                                         | https://github.com/naeglinghaff/bank_tech_test                                         |
 
 
 ## The things I do best ##
