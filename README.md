@@ -1,6 +1,4 @@
-<h1 style="text-align: center;">Kate Haffenden | A former copywriter and marketing manager </h1>
-
-<h4 style="text-align: center" font-style: italic;">Translation: a pernickety creative and fast-learner</h4>
+<h1 style="text-align: center;">Kate Haffenden 
 
 -------------------------
 
