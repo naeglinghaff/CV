@@ -60,9 +60,6 @@ Royal Holloway, University of London
 The Judd School
 * A-Levels: A*, A*, B
 
-Weald of Kent Grammar School for Girls
-* GCSE's: 10 x Grade A* – B. Including English (A), Maths (A)
-
 ## Things I've done ##
 
 #### Freelance Copywriter and Marketing Manager (July 2019 to February 2020)
